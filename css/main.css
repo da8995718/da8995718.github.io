@@ -5,6 +5,14 @@ html body {
 	width: 100%;
 	margin:0;
 	padding:0;
+	padding-top:50px;
+	background: url(../img/bg.jpg) center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	position:relative;
+
 
 }
 
