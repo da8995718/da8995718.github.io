@@ -6,7 +6,7 @@ html body {
 	padding-top:50px;
 	width: 100%;
     	height: 100%;
-   	overflow-x: hidden; 
+   	overflow-x: initial; 
 	background: url(../img/bg.jpg) center center fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
